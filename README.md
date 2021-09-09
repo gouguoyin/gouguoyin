@@ -41,18 +41,10 @@
 
 ## ⚙️ &nbsp; GitHub Analytics
 <div>
-  <p align="left"><img src="https://github-profile-trophy.vercel.app/?username=yautze&theme=onedark" width="99%" alt="YauTze"/></p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=yautze&show_icons=true&include_all_commits=true&count_private=true&theme=ayu-mirage" width="49.5%" alt="YauTze"/>
-  <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=yautze&theme=ayu-mirage&hide_border=flase" width="49.5%" alt="YauTze"/>                                                                                                                              
+  <p align="left"><img src="https://github-profile-trophy.vercel.app/?username=gouguoyin&theme=onedark" width="99%" alt="YauTze"/></p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=gouguoyin&show_icons=true&include_all_commits=true&count_private=true&theme=ayu-mirage" width="49.5%" alt="gouguoyin"/>
+  <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=gouguoyin&theme=ayu-mirage&hide_border=flase" width="49.5%" alt="gouguoyin"/>                                                                                                                              
 </div>
-
-
-<!-- 聯絡我 -->
-## ✉️ &nbsp; Find me:
-<p align="center">
-  <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/%E6%89%BF%E7%A5%90-%E9%99%B3-855837201/" target="_blank" rel="noopener noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" alt="LinkedIn" height="40" style="vertical-align:top; margin:4px"></a>
-</p>
 
 <!--
 **yautze/yautze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -68,3 +60,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+

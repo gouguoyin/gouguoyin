@@ -5,6 +5,6 @@
 
 > Walk steps step by step!
 
-🇨🇳 China beijing 🕹Full stack developer
+🇨🇳 China beijing 🕹 Full stack developer
 
 [contact@gouguoyin.cn](mailto:contact@gouguoyin.cn)

@@ -3,7 +3,7 @@
 ### I'm gouguoyin <img src="https://emoji.slack-edge.com/T014NFWNW8J/hyper/02a58f18dc8f04f1.gif" width="20" />
 
 
-> Owner of[ go-carbon](https://github.com/golang-module/carbon " go-carbon"), [go-dongle](https://github.com/golang-module/dongle "go-dongle"),  [phprap](https://github.com/gouguoyin/phprap "phprap")
+> Creator of[ go-carbon](https://github.com/golang-module/carbon " go-carbon"), [go-dongle](https://github.com/golang-module/dongle "go-dongle"),  [phprap](https://github.com/gouguoyin/phprap "phprap")
 
 🇨🇳 China beijing 🕹 Full stack developer
 
